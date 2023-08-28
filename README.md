@@ -1,5 +1,5 @@
 # Practice_Embedfire_Motor
-【TODO】Practice for Embedfire motor development
+Practice for Embedfire motor development
 
 GitHub Repository: https://gitee.com/organizations/Embedfire-motor/projects
 
