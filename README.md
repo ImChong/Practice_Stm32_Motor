@@ -13,3 +13,7 @@ Practice for Embedfire motor development
   - [STM32H743 Motor](https://gitee.com/Embedfire-motor/ebf_motor_tutorial_code_stm32h743_fanxing)
 - [Videos](https://www.bilibili.com/video/BV1AZ4y1V7wt/?vd_source=75275452d1d334b4d80721d4823e4631)
 - Mindmap: TODO
+
+## Algorithm_Explained
+
+- [FOC](docs/FOC/README.md)
