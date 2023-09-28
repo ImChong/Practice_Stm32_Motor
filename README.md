@@ -16,4 +16,4 @@ Practice for Embedfire motor development
 
 ## Algorithm_Explained
 
-- [FOC](docs/FOC/README.md)
+- [FOC](docs/README.md)
