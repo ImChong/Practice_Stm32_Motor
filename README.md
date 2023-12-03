@@ -1,5 +1,7 @@
 # Practice_Embedfire_Motor
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Practice for Embedfire motor development
 
 [GitHub Repository](https://gitee.com/organizations/Embedfire-motor/projects)
